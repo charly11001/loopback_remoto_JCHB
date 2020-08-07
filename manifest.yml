@@ -1,0 +1,4 @@
+applications:
+- name: loopback-JuanCarlos
+  memory: 256M
+
